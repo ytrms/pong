@@ -1,6 +1,6 @@
 # SCREEN
-screen_x_dim: int = 256
-screen_y_dim: int = 108
+screen_x_dim: int = 128
+screen_y_dim: int = 80
 fps: int = 60
 fullscreen: bool = True
 
@@ -18,4 +18,4 @@ puck_size: int = 2
 points_to_score_to_win: int = 5
 
 # ASSETS
-assets_file_name: str = "assets.pyxres"
+assets_file_name: str = "assets/assets.pyxres"
