@@ -20,7 +20,7 @@ class App:
                    fullscreen=fullscreen,
                    fps=fps
                    )
-        pyxel.load(assets_file_name)
+        pyxel.load(assets_file_path)
         pyxel.run(self.update, self.draw)
 
     def start_bg_music(self):

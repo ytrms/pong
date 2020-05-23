@@ -18,4 +18,4 @@ puck_size: int = 2
 points_to_score_to_win: int = 5
 
 # ASSETS
-assets_file_name: str = "assets/assets.pyxres"
+assets_file_path: str = "assets/assets.pyxres"
